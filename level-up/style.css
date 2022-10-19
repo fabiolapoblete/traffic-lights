@@ -1,0 +1,65 @@
+.container {
+    width: 300px;
+    height: 880px;
+    border-left: 2px solid black;
+    border-top: 5px solid black;
+    border-right: 1px solid black;
+    padding: 5px;
+
+}
+
+.red {
+    width: 250px;
+    height: 250px;
+    background-color: darkred;
+    padding: 16px;
+    margin: 10px;
+}
+
+.upper {
+    width: 250px;
+    height: 125px;
+    background-color: red;
+}
+.lower {
+    width: 250px;
+    height: 125px;
+    background-color: pink;
+
+}
+
+.yellow {
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    border: 16px solid greenyellow;
+    position: relative;
+    margin: 10px;
+}
+
+.bottom-right {
+    width: 125px;
+    height: 125px;
+    background-color: lightyellow;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.green {
+    width: 250px;
+    height: 250px;
+    background-color: green;
+    border: 16px solid darkgreen;
+    position: relative;
+    margin: 10px;
+}
+
+.bottom-left {
+    width: 125px;
+    height: 125px;
+    background-color: lightgreen;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

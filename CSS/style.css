@@ -1,0 +1,26 @@
+section {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+
+.container {
+    width: 300px;
+    height: 880px;
+    border-right: 3px solid green;
+    border-bottom: 3px solid green;
+    padding: 10px;
+}
+
+.red {
+    background-color: red;
+    border: 16px solid darkred;
+}
+.yellow {
+    background-color: yellow;
+    border: 16px solid yellowgreen
+}
+.green {
+    background-color: green;
+    border: 16px solid darkgreen;
+}
